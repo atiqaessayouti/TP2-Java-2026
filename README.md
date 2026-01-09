@@ -35,4 +35,5 @@ a list of product-type objects using Object-Oriented Programming principles.
 
 ---
 
-## ▶️ Example 
+## ▶️ Example <img width="378" height="151" alt="image" src="https://github.com/user-attachments/assets/95ca71d5-89ed-441c-93b2-940c428f6e61" />
+
