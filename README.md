@@ -13,8 +13,11 @@ a list of product-type objects using Object-Oriented Programming principles.
    - `id` (long)
    - `name` (String)
    - `price` (double)
+   - <img width="741" height="669" alt="image" src="https://github.com/user-attachments/assets/d40c565d-30c3-4578-ac7b-239190c7801d" />
+
 
 2. Create a class called `ProductManagementApp` containing the `main` method.
+<img width="942" height="661" alt="image" src="https://github.com/user-attachments/assets/e30d0394-5d00-4839-a015-435a41420f0a" />
 
 3. Inside the `main` method:
    - Create an `ArrayList<Product>`
